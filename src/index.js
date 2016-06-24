@@ -29,7 +29,7 @@ class Options {
 
     if (file) {
       const fileoptname = typeof file === 'string' ? file : 'config-file'
-      csont file = this.option(fileoptname)
+      const file = this.option(fileoptname)
         .description('the location of the config file')
         .type('string')
         .get()
