@@ -3,7 +3,12 @@
 
 A simple options parser for node that can get options from different sources.
 
-Example:
+## Installation
+```
+npm install optimal.js --save
+```
+
+## Example
 
 ```js
 import optimal from 'optimal'
