@@ -1,5 +1,5 @@
 {
-  "name": "optimal",
+  "name": "optimal.js",
   "version": "0.0.1",
   "description": "A simple configuration parser for node",
   "main": "build/index.js",
