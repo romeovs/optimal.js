@@ -8,7 +8,11 @@
     "prepublish": "npm run compile",
     "compile": "babel src/ -d build/"
   },
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/romeovs/optimal.js.git"
+  },
+  "author": "Romeo Van Snick <romeovs@gmail.com>",
   "license": "ISC",
   "devDependencies": {
     "babel-cli": "^6.10.1",
